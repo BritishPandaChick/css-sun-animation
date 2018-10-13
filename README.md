@@ -1,3 +1,12 @@
-# css-sun-animation
+# CSS Sun Animation
+Codeplayer.com Pure CSS Sun Animation project. Made with HTML &amp; CSS.
 
-Codeplayer.com Pure CSS Sun Animation project
+## Instructions
+Clone or download zip file. Open index.html file in your browser.
+
+## Contributing
+This repository is based on starter code from TheCodePlayer. Therefore I will not be accepting any pull requests.
+
+## Acknowledgements
+* TheCodePlayer
+
