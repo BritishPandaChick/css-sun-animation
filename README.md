@@ -1,11 +1,14 @@
 # CSS Sun Animation
-Codeplayer.com Pure CSS Sun Animation project. Made with HTML and CSS.
+CSS art sun with animation 
+
+## Tech Stack
+- HTML
+- CSS
 
 ## Instructions
-Clone or download zip file. Open index.html file in your browser.
-
-## Contributing
-This repository is based on starter code from TheCodePlayer.com. Therefore I will not be accepting any pull requests.
+1. Clone or download zip file. 
+2. Open index.html file in your browser.
+3. The sun will be in the middle of the screen. The rays around the sun will move around at different speeds.
 
 ## Acknowledgements
 * TheCodePlayer.com
